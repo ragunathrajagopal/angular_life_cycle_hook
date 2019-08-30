@@ -1,5 +1,5 @@
 Angular:-
-
+ TITTLE:- 
 	1.     life cycle hook
 	2.     oops
 	3.     serivces
